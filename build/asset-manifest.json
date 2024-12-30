@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0ae9678c.css",
+    "main.js": "/static/js/main.ecf20e80.js",
+    "static/media/pic-1.jpg": "/static/media/pic-1.1d1adc793af64bf9fbde.jpg",
+    "static/media/bali-bg.jpg": "/static/media/bali-bg.37b6f9b9f9b24fbb93c4.jpg",
+    "static/media/bali-sunset.png": "/static/media/bali-sunset.3bbd7884dd7fa7240981.png",
+    "static/media/japan.jpg": "/static/media/japan.93b466c3187767027a39.jpg",
+    "static/media/costa-rica.jpeg": "/static/media/costa-rica.fee5c85171d5c71effe8.jpeg",
+    "static/media/pic-3.jpg": "/static/media/pic-3.4e21644e7e7a8aeb3099.jpg",
+    "static/media/pic-2.jpg": "/static/media/pic-2.ffedf1ef91b4471f7de2.jpg",
+    "static/media/pic-4.jpg": "/static/media/pic-4.48f1a32fcf71b24ce85b.jpg",
+    "index.html": "/index.html",
+    "main.0ae9678c.css.map": "/static/css/main.0ae9678c.css.map",
+    "main.ecf20e80.js.map": "/static/js/main.ecf20e80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ae9678c.css",
+    "static/js/main.ecf20e80.js"
+  ]
+}
